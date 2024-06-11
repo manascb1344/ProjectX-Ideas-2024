@@ -210,9 +210,12 @@ Welcome to the exciting world of 2D car simulations powered by physics engines a
 # 📚 Resources
 
 **Genetic Algorithms**: 
+
 https://www.youtube.com/watch?v=XP2sFzp2Rig
 https://www.geeksforgeeks.org/genetic-algorithms/
+
 **Physics Engine Documentation**
+
 https://box2d.org/
 
 **Pre-requisites**: Basic Understanding of Web Development, Mechanics, Linear Algebra  
