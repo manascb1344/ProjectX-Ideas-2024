@@ -215,9 +215,17 @@ https://www.geeksforgeeks.org/genetic-algorithms/
 **Physics Engine Documentation**
 https://box2d.org/
 
-**Pre-requisites**: Basic Understanding of Web Development, Mechanics, Linear Algebra
-**Difficulty**: Medium to Hard
-**Mentors**: Manas Bavaskar, Sharan Poojari
-**Domains**: AI/ML, Computer Graphics and Simulation, Game Development
+**Pre-requisites**:  
+Basic Understanding of Web Development, Mechanics, Linear Algebra  
+
+**Difficulty**:  
+Medium to Hard  
+
+**Mentors**:  
+Manas Bavaskar, Sharan Poojari  
+
+**Domains**:  
+AI/ML, Computer Graphics and Simulation, Game Development  
+
 
 ***
