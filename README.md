@@ -209,7 +209,8 @@ Welcome to the exciting world of 2D car simulations powered by physics engines a
 
 # 📚 Resources
 
-**Genetic Algorithms**: 
+**Genetic Algorithms**:
+
 https://www.youtube.com/watch?v=XP2sFzp2Rig
 
 https://www.geeksforgeeks.org/genetic-algorithms/
